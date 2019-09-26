@@ -12,7 +12,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
-- [Elixir](#elixir)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -78,9 +77,6 @@
 ## Dart
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.  
 
-## Elixir
-- [blitz-cms](https://github.com/theblitzapp/blitz-cms) - Blitz CMS Backend + User system  
-
 ## Go
 - [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs  
 - [go-logformat](https://github.com/tj/go-logformat) -   
@@ -124,7 +120,6 @@
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React  
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️Simple, Modular & Accessible UI Components for your React Applications  
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM  
-- [paper](https://github.com/sandeep1995/paper) - Slack + Trello in a same app  
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons  
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor  
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - :pushpin: Helps positioning your electron windows.  
@@ -132,7 +127,6 @@
 - [node_redis](https://github.com/NodeRedis/node_redis) - redis client for node  
 - [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝  
 - [shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.  
-- [blitz-waitlist](https://github.com/theblitzapp/blitz-waitlist) - Blitz waitlist system. Increase the Hype. With referrals and crons  
 - [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript  
 - [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code  
 - [rooks](https://github.com/imbhargav5/rooks) - Collection of React hooks ⚓ for everyone.  
@@ -145,7 +139,6 @@
 - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.  
 - [electron-quick-start](https://github.com/sindresorhus/electron-quick-start) - Clone to try a simple Electron app  
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js  
-- [blitz-client](https://github.com/theblitzapp/blitz-client) - The League tool that does it all. Automatically. All the features of OP.GG + Champion.gg, automated and rolled into one OP desktop app that's powered by computer vision. No typing, no ads, no problem.  
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development  
 - [redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux  
 - [squirrel-updates-server](https://github.com/aluxian/squirrel-updates-server) - A simple node.js server for Squirrel.Mac and Squirrel.Windows which uses GitHub releases.  
@@ -256,9 +249,9 @@
 - [touch-bar-timer](https://github.com/azirbel/touch-bar-timer) - Simple stopwatch for the mac touchbar  
 
 ## Others
+- [awesome-stars-by-sandeep](https://github.com/sandeep1995/awesome-stars-by-sandeep) -   
 - [node-vs-deno](https://github.com/egoist/node-vs-deno) - A Deno guide for Node.js developers  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
-- [blitz-test-releases](https://github.com/theblitzapp/blitz-test-releases) -   
 - [iClock-Pro](https://github.com/sandeep1995/iClock-Pro) - Find downloads for iClock Pro  
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics  
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.  
