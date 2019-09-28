@@ -325,7 +325,7 @@
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript  
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.  
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps  
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
+- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.  
 - [angular2-library-example](https://github.com/jhades/angular2-library-example) - An example repository for building your own Angular 2 library  
 - [angular-npm-module-seed](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.  
